@@ -30,7 +30,7 @@
 
 ## دروس کارشناسی
 
-[1322029-02     کارآموزی](https://github.com/farzadsahraei/PNU_3991/blob/master/_BSc/Internship/1322029_02/07_%D9%81%D8%B1%D8%B2%D8%A7%D8%AF%20%D8%B5%D8%AD%D8%B1%D8%A7%20%D8%A6%D9%8A/readme.md)
+[1322029-02     کارآموزی](https://github.com/parvaneshakeri/PNU_3991/blob/master/_BSc/Internship/1511011_01/02_%D9%BE%D8%B1%D9%88%D8%A7%D9%86%D9%87%20%D8%B4%D8%A7%D9%83%D8%B1%D9%8A/readme.md)
 
 
 ------------------
