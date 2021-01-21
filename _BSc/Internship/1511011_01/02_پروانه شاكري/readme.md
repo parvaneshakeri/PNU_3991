@@ -7,7 +7,7 @@
  - [PNU_3991_AR](https://github.com/farzadsahraei/PNU_3991_AR)
  - [Resume](https://github.com/parvaneshakeri/PNU_3991_AR/blob/main/cv%20pshakeri.pdf) 
  - [SOP](https://farzadsahraei.github.io/sahraei.github.io/docs/SOP.pdf)
- - [Certificates](https://farzadsahraei.github.io/sahraei.github.io/docs/jscertificate.jpeg)
+ - [Certificates](https://github.com/parvaneshakeri/PNU_3991_AR/blob/main/parvaneshakeri-1.jpg)
  - [GitHub](https://farzadsahraei.github.io/sahraei.github.io/docs/jlord.png)
  
 ------------------
