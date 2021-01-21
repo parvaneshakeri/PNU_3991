@@ -3,7 +3,7 @@
 ------------------
    
  # پروانه شاکری
- # 9117712852
+ # 917712852
  - [PNU_3991_AR](https://github.com/farzadsahraei/PNU_3991_AR)
  - [Resume](https://github.com/parvaneshakeri/PNU_3991_AR/blob/main/cv%20pshakeri.pdf) 
  - [SOP](https://farzadsahraei.github.io/sahraei.github.io/docs/SOP.pdf)
