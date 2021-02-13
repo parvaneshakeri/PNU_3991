@@ -22,7 +22,7 @@
 
 ------------------
 ## مشخصات کارآموزی
- - [گزارش کارآموزی](https://github.com/parvaneshakeri/PNU_3991_AR/blob/main/%D9%81%D8%B1%D9%85%20%D9%87%D8%A7%DB%8C%20%DA%A9%D8%A7%D8%B1%D8%A2%D9%85%D9%88%D8%B2%DB%8C.pdf)
+ - [گزارش کارآموزی](https://github.com/parvaneshakeri/PNU_3991_AR/blob/main/p.shakeri.doc)
 
   
 ------------------
@@ -30,7 +30,7 @@
 
 ## دروس کارشناسی
 
-[1322029-02     کارآموزی](https://github.com/parvaneshakeri/PNU_3991/blob/master/_BSc/Internship/1511011_01/02_%D9%BE%D8%B1%D9%88%D8%A7%D9%86%D9%87%20%D8%B4%D8%A7%D9%83%D8%B1%D9%8A/readme.md)
+[1322029-02     کارآموزی](https://github.com/parvaneshakeri/PNU_3991_AR/blob/main/%D9%81%D8%B1%D9%85%20%D9%87%D8%A7%DB%8C%20%DA%A9%D8%A7%D8%B1%D8%A2%D9%85%D9%88%D8%B2%DB%8C.pdf)
 
 
 ------------------
